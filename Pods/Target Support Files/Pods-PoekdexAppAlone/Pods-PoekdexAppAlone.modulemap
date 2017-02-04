@@ -1,0 +1,6 @@
+framework module Pods_PoekdexAppAlone {
+  umbrella header "Pods-PoekdexAppAlone-umbrella.h"
+
+  export *
+  module * { export * }
+}
